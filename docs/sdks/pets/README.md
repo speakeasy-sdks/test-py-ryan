@@ -1,5 +1,5 @@
 # Pets
-(*pets*)
+(*.pets*)
 
 ### Available Operations
 
@@ -15,7 +15,6 @@ Create a pet
 
 ```python
 import swagger_petstore
-
 
 s = swagger_petstore.SwaggerPetstore()
 

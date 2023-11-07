@@ -4,7 +4,6 @@
 ```python
 import swagger_petstore
 
-
 s = swagger_petstore.SwaggerPetstore()
 
 
