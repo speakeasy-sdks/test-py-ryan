@@ -8,6 +8,7 @@ src/swagger_petstore/utils/__init__.py
 src/swagger_petstore/utils/retries.py
 src/swagger_petstore/utils/utils.py
 src/swagger_petstore/models/errors/sdkerror.py
+tests/helpers.py
 src/swagger_petstore/models/operations/createpets.py
 src/swagger_petstore/models/operations/listpets.py
 src/swagger_petstore/models/operations/showpetbyid.py
