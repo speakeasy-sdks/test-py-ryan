@@ -1,21 +1,10 @@
-configVersion: 1.0.0
-management:
-  docChecksum: 21c25ca8a734b4fb704e98d966524ee0
-  docVersion: 1.0.0
-  speakeasyVersion: 1.127.0
-  generationVersion: 2.220.0
+configVersion: 2.0.0
 generation:
-  comments: {}
   sdkClassName: Swagger-Petstore
-  repoURL: https://github.com/speakeasy-sdks/test-py-ryan.git
   usageSnippets:
     optionalPropertyRendering: withExample
   fixes:
     nameResolutionDec2023: false
-features:
-  python:
-    core: 4.3.1
-    globalServerURLs: 2.82.1
 python:
   version: 0.3.1
   author: test-3
@@ -31,8 +20,6 @@ python:
       shared: models/shared
       webhooks: models/webhooks
   inputModelSuffix: input
-  installationURL: https://github.com/speakeasy-sdks/test-py-ryan.git
   maxMethodParams: 0
   outputModelSuffix: output
   packageName: Swagger-Petstore
-  repoSubDirectory: .

@@ -1,0 +1,48 @@
+lockVersion: 2.0.0
+id: 89d58921-58c0-44dd-8775-c162fa0fc17b
+management:
+  docChecksum: 21c25ca8a734b4fb704e98d966524ee0
+  docVersion: 1.0.0
+  speakeasyVersion: internal
+  generationVersion: 2.225.2
+  releaseVersion: 0.3.1
+  configChecksum: 38303f040f7af7040e0153bd0251476e
+  repoURL: https://github.com/speakeasy-sdks/test-py-ryan.git
+  repoSubDirectory: .
+  installationURL: https://github.com/speakeasy-sdks/test-py-ryan.git
+features:
+  python:
+    core: 4.4.0
+    globalServerURLs: 2.82.1
+generatedFiles:
+  - src/swagger_petstore/sdkconfiguration.py
+  - src/swagger_petstore/pets.py
+  - src/swagger_petstore/sdk.py
+  - pylintrc
+  - setup.py
+  - src/swagger_petstore/__init__.py
+  - src/swagger_petstore/utils/__init__.py
+  - src/swagger_petstore/utils/retries.py
+  - src/swagger_petstore/utils/utils.py
+  - src/swagger_petstore/models/errors/sdkerror.py
+  - tests/helpers.py
+  - src/swagger_petstore/models/operations/createpets.py
+  - src/swagger_petstore/models/operations/listpets.py
+  - src/swagger_petstore/models/operations/showpetbyid.py
+  - src/swagger_petstore/models/shared/error.py
+  - src/swagger_petstore/models/shared/pet.py
+  - src/swagger_petstore/models/__init__.py
+  - src/swagger_petstore/models/errors/__init__.py
+  - src/swagger_petstore/models/operations/__init__.py
+  - src/swagger_petstore/models/shared/__init__.py
+  - docs/models/operations/createpetsresponse.md
+  - docs/models/operations/listpetsrequest.md
+  - docs/models/operations/listpetsresponse.md
+  - docs/models/operations/showpetbyidrequest.md
+  - docs/models/operations/showpetbyidresponse.md
+  - docs/models/shared/error.md
+  - docs/models/shared/pet.md
+  - docs/sdks/swaggerpetstore/README.md
+  - docs/sdks/pets/README.md
+  - USAGE.md
+  - .gitattributes
