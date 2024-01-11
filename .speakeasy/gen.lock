@@ -1,12 +1,12 @@
 lockVersion: 2.0.0
 id: 89d58921-58c0-44dd-8775-c162fa0fc17b
 management:
-  docChecksum: 21c25ca8a734b4fb704e98d966524ee0
+  docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.228.1
-  releaseVersion: 0.3.2
-  configChecksum: dd59404627d0ffea57dff8e78e3da7b5
+  generationVersion: 2.230.3
+  releaseVersion: 0.3.3
+  configChecksum: 6aa19dfba8090d591ec81c3e28203084
   repoURL: https://github.com/speakeasy-sdks/test-py-ryan.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/test-py-ryan.git
