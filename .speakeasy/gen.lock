@@ -4,15 +4,15 @@ management:
   docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.245.1
-  releaseVersion: 0.3.5
-  configChecksum: 4c3bd54f8e4c41f4d529c417370ec67a
+  generationVersion: 2.248.1
+  releaseVersion: 0.4.0
+  configChecksum: 1866defadb3473910ebca3a58d02fd63
   repoURL: https://github.com/speakeasy-sdks/test-py-ryan.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/test-py-ryan.git
 features:
   python:
-    core: 4.4.3
+    core: 4.4.4
     globalServerURLs: 2.82.1
 generatedFiles:
   - src/swagger_petstore/sdkconfiguration.py
