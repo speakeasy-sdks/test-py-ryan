@@ -10,7 +10,7 @@ generation:
   auth:
     oAuth2ClientCredentialsEnabled: false
 python:
-  version: 0.7.2
+  version: 0.8.0
   additionalDependencies:
     dependencies: {}
     extraDependencies:
@@ -31,4 +31,5 @@ python:
   maxMethodParams: 0
   outputModelSuffix: output
   packageName: Swagger-Petstore
+  projectUrls: {}
   responseFormat: envelope
